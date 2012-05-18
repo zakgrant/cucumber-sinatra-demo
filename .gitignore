@@ -1,0 +1,6 @@
+webrat.log
+*.swp
+.idea
+vendor/bundle
+documentation
+.DS_Store

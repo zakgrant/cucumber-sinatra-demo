@@ -1,0 +1,2 @@
+default: --require features/support --require features/step_definitions --format pretty
+html: --require features/support --require features/step_definitions --format html --out documentation/features_report.html
