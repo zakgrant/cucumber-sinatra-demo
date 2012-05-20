@@ -8,4 +8,5 @@ group :development, :test do
   gem "rspec"
   gem "rack-test"
   gem "webrat"
+  gem "rake"
 end

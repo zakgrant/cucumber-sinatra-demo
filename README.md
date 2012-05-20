@@ -1,4 +1,6 @@
 # Sinatra App Demo
+[![Build Status](https://secure.travis-ci.org/zakgrant/cucumber-sinatra-demo.png?branch=master)](http://travis-ci.org/zakgrant/cucumber-sinatra-demo) [![Dependency Status](https://gemnasium.com/zakgrant/cucumber-sinatra-demo.png)](https://gemnasium.com/zakgrant/cucumber-sinatra-demo)
+
 Dead simple demo project with Cucumber features and RSpec examples running against a simple
 Sinatra app.
 
